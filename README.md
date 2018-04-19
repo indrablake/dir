@@ -1,1 +1,1 @@
-# dir
+# Aplikasi Android Directory Sqlite
